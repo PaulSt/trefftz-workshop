@@ -1,0 +1,11 @@
+jupyter>=1.0.0
+
+matplotlib>=3.6.1
+matplotlib-inline>=0.1.6
+
+numpy>=1.23.4
+scipy>=1.11.1 
+ngsolve>=6.2.2403
+xfem>=2.1.2303.post72.dev0
+ngstrefftz>=0.2.2401
+webgui-jupyter-widgets>=0.2.31
